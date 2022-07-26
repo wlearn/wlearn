@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @wlearn
+- 👀 I’m interested in CV machine learning
+- 🌱 I’m currently learning python and matlab
